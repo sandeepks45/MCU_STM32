@@ -1,0 +1,10 @@
+15:33:14 **** Incremental Build of configuration Debug for project USART_LED_TOGG ****
+make -j12 all 
+arm-none-eabi-size   USART_LED_TOGG.elf 
+   text	   data	    bss	    dec	    hex	filename
+   1048	      8	   1568	   2624	    a40	USART_LED_TOGG.elf
+Finished building: default.size.stdout
+ 
+
+15:33:14 Build Finished. 0 errors, 0 warnings. (took 219ms)
+

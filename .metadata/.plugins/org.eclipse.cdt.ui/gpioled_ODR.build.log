@@ -1,0 +1,10 @@
+10:07:02 **** Incremental Build of configuration Debug for project gpioled_ODR ****
+make -j12 all 
+arm-none-eabi-size   gpioled_ODR.elf 
+   text	   data	    bss	    dec	    hex	filename
+    944	     12	   1572	   2528	    9e0	gpioled_ODR.elf
+Finished building: default.size.stdout
+ 
+
+10:07:02 Build Finished. 0 errors, 0 warnings. (took 204ms)
+

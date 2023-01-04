@@ -1,0 +1,10 @@
+17:30:58 **** Incremental Build of configuration Debug for project UART6_DEMO ****
+make -j12 all 
+arm-none-eabi-size   UART6_DEMO.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11268	     20	   1636	  12924	   327c	UART6_DEMO.elf
+Finished building: default.size.stdout
+ 
+
+17:30:58 Build Finished. 0 errors, 0 warnings. (took 201ms)
+

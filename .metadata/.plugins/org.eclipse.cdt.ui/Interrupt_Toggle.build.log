@@ -1,0 +1,10 @@
+12:44:50 **** Incremental Build of configuration Debug for project Interrupt_Toggle ****
+make -j12 all 
+arm-none-eabi-size   Interrupt_Toggle.elf 
+   text	   data	    bss	    dec	    hex	filename
+   6192	     20	   1572	   7784	   1e68	Interrupt_Toggle.elf
+Finished building: default.size.stdout
+ 
+
+12:44:51 Build Finished. 0 errors, 0 warnings. (took 201ms)
+

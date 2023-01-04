@@ -1,0 +1,10 @@
+12:32:22 **** Incremental Build of configuration Debug for project gpiobuttonled ****
+make -j12 all 
+arm-none-eabi-size   gpiobuttonled.elf 
+   text	   data	    bss	    dec	    hex	filename
+    984	     12	   1572	   2568	    a08	gpiobuttonled.elf
+Finished building: default.size.stdout
+ 
+
+12:32:23 Build Finished. 0 errors, 0 warnings. (took 167ms)
+

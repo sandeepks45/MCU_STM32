@@ -1,0 +1,10 @@
+12:46:43 **** Incremental Build of configuration Debug for project 01_print with lib ****
+make -j12 all 
+arm-none-eabi-size   01_print\ with\ lib.elf 
+   text	   data	    bss	    dec	    hex	filename
+   3868	    112	   1592	   5572	   15c4	01_print with lib.elf
+Finished building: default.size.stdout
+ 
+
+12:46:44 Build Finished. 0 errors, 0 warnings. (took 213ms)
+

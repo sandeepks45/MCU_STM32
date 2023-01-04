@@ -1,0 +1,8 @@
+../Drivers/Src/stm32f411x_driver_gpio.c:10:6:GPIO_PeriClockControl	16	static
+../Drivers/Src/stm32f411x_driver_gpio.c:47:6:GPIO_Init	24	static
+../Drivers/Src/stm32f411x_driver_gpio.c:87:6:GPIO_DeInit	16	static
+../Drivers/Src/stm32f411x_driver_gpio.c:103:9:GPIO_ReadInputPin	24	static
+../Drivers/Src/stm32f411x_driver_gpio.c:112:10:GPIO_ReadInputPort	24	static
+../Drivers/Src/stm32f411x_driver_gpio.c:121:6:GPIO_WriteOutputPin	16	static
+../Drivers/Src/stm32f411x_driver_gpio.c:133:6:GPIO_WriteOutputPort	16	static
+../Drivers/Src/stm32f411x_driver_gpio.c:138:6:GPIO_ToggOutputPin	16	static

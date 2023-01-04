@@ -1,0 +1,10 @@
+14:55:28 **** Incremental Build of configuration Debug for project I2C_RTC_Register ****
+make -j12 all 
+arm-none-eabi-size   I2C_RTC_Register.elf 
+   text	   data	    bss	    dec	    hex	filename
+   4876	    112	   1632	   6620	   19dc	I2C_RTC_Register.elf
+Finished building: default.size.stdout
+ 
+
+14:55:28 Build Finished. 0 errors, 0 warnings. (took 178ms)
+

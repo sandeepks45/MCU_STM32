@@ -1,0 +1,9 @@
+../Core/Src/LM35_reg.c:22:5:main	64	static
+../Core/Src/LM35_reg.c:49:6:ADC_Init	4	static
+../Core/Src/LM35_reg.c:61:6:LCD_string	24	static
+../Core/Src/LM35_reg.c:70:6:LCD_init	8	static
+../Core/Src/LM35_reg.c:88:6:PORTS_init	4	static
+../Core/Src/LM35_reg.c:102:6:LCD_nibble_write	16	static
+../Core/Src/LM35_reg.c:117:6:LCD_command	16	static
+../Core/Src/LM35_reg.c:127:6:LCD_data	16	static
+../Core/Src/LM35_reg.c:134:6:delay	24	static

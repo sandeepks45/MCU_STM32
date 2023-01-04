@@ -1,0 +1,10 @@
+15:27:40 **** Incremental Build of configuration Debug for project BME280_Read ****
+make -j12 all 
+arm-none-eabi-size   BME280_Read.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9972	     20	   1660	  11652	   2d84	BME280_Read.elf
+Finished building: default.size.stdout
+ 
+
+15:27:41 Build Finished. 0 errors, 0 warnings. (took 157ms)
+

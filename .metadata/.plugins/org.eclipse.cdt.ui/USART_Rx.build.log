@@ -1,0 +1,17 @@
+10:21:21 **** Incremental Build of configuration Debug for project USART_Rx ****
+make -j12 all 
+arm-none-eabi-gcc "../Core/Src/USART2_reg.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F411xE -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Core/Src/USART2_reg.d" -MT"Core/Src/USART2_reg.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/USART2_reg.o"
+arm-none-eabi-gcc -o "USART_Rx.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\PHY202209EF06\STM32CubeIDE\workspace_1.10.1\USART_Rx\STM32F411RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="USART_Rx.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: USART_Rx.elf
+ 
+arm-none-eabi-size   USART_Rx.elf 
+arm-none-eabi-objdump -h -S  USART_Rx.elf  > "USART_Rx.list"
+   text	   data	    bss	    dec	    hex	filename
+    960	      8	   1568	   2536	    9e8	USART_Rx.elf
+Finished building: default.size.stdout
+ 
+Finished building: USART_Rx.list
+ 
+
+10:21:21 Build Finished. 0 errors, 0 warnings. (took 448ms)
+

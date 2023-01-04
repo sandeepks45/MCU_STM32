@@ -1,0 +1,10 @@
+16:06:33 **** Incremental Build of configuration Debug for project ADC_LM35_UsingRegisters ****
+make -j12 all 
+arm-none-eabi-size   ADC_LM35_UsingRegisters.elf 
+   text	   data	    bss	    dec	    hex	filename
+   8024	    108	   1588	   9720	   25f8	ADC_LM35_UsingRegisters.elf
+Finished building: default.size.stdout
+ 
+
+16:06:34 Build Finished. 0 errors, 0 warnings. (took 217ms)
+

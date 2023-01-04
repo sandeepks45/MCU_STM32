@@ -1,0 +1,5 @@
+1669627466785	Delete resource 'USART1_DEMO/Core/Src/stm32f4xx_it.c'
+1669628326875	Delete resource 'USART1_DEMO/Core/Src/usart1_reg.c'
+1669628341996	Delete resource 'USART1_DEMO/Core/Src/usart1_hal.c'
+1669628360947	Delete resource 'USART1_DEMO/Core/Src/stm32f4xx_it.c'
+1669803656214	Delete resource 'TIMERS_Without_HAL/Core/Src/Timers_hal.c'

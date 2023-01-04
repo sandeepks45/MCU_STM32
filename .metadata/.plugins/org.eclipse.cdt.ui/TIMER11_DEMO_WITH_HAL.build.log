@@ -1,0 +1,10 @@
+10:03:21 **** Incremental Build of configuration Debug for project TIMER11_DEMO_WITH_HAL ****
+make -j12 all 
+arm-none-eabi-size   TIMER11_DEMO_WITH_HAL.elf 
+   text	   data	    bss	    dec	    hex	filename
+   7484	     20	   1644	   9148	   23bc	TIMER11_DEMO_WITH_HAL.elf
+Finished building: default.size.stdout
+ 
+
+10:03:21 Build Finished. 0 errors, 0 warnings. (took 201ms)
+

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;TIMERS_Without_HAL/Core/Src/main.c&apos; to &apos;Timers_hal.c&apos;" description="Rename resource &apos;main.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Core/Src/main.c" name="Timers_hal.c" stamp="1669803470616" updateReferences="true"/>
+</session>

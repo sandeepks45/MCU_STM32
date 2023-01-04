@@ -1,0 +1,10 @@
+10:58:39 **** Incremental Build of configuration Debug for project TIMER3_OutputCompare_External_LED ****
+make -j12 all 
+arm-none-eabi-size   TIMER3_OutputCompare_External_LED.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9992	     20	   1644	  11656	   2d88	TIMER3_OutputCompare_External_LED.elf
+Finished building: default.size.stdout
+ 
+
+10:58:39 Build Finished. 0 errors, 0 warnings. (took 201ms)
+

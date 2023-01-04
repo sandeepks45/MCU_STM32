@@ -1,0 +1,6 @@
+1669200182319	Delete resource 'USART_Tx/Core/Src/stm32f4xx_it.c'
+1669282416420	Delete resource 'USART_Rx/Core/Inc/lcd.h'
+1669283620081	Delete resource 'USART_LED_TOGG/Core/Src/stm32f4xx_it.c'
+1669284174744	Delete resource 'USART_LED_TOGG/Core/Src/main.c'
+1669284184217	Delete resource 'USART_LED_TOGG/Core/Src/stm32f4xx_it.c'
+1669357344814	Delete resource 'USART2_NEW_PROJECT/Core/Src/stm32f4xx_it.c'

@@ -1,0 +1,10 @@
+15:12:53 **** Incremental Build of configuration Debug for project RFID_RTC ****
+make -j12 all 
+arm-none-eabi-size   RFID_RTC.elf 
+   text	   data	    bss	    dec	    hex	filename
+  16180	     24	   1832	  18036	   4674	RFID_RTC.elf
+Finished building: default.size.stdout
+ 
+
+15:12:53 Build Finished. 0 errors, 0 warnings. (took 297ms)
+

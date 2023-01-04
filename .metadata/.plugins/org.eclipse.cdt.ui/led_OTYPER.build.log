@@ -1,0 +1,10 @@
+11:35:44 **** Incremental Build of configuration Debug for project led_OTYPER ****
+make -j12 all 
+arm-none-eabi-size   led_OTYPER.elf 
+   text	   data	    bss	    dec	    hex	filename
+    944	     12	   1572	   2528	    9e0	led_OTYPER.elf
+Finished building: default.size.stdout
+ 
+
+11:35:44 Build Finished. 0 errors, 0 warnings. (took 213ms)
+

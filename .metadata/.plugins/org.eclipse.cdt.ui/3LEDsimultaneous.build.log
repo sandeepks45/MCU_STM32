@@ -1,0 +1,10 @@
+16:03:59 **** Incremental Build of configuration Debug for project 3LEDsimultaneous ****
+make -j12 all 
+arm-none-eabi-size   3LEDsimultaneous.elf 
+   text	   data	    bss	    dec	    hex	filename
+   1036	     12	   1572	   2620	    a3c	3LEDsimultaneous.elf
+Finished building: default.size.stdout
+ 
+
+16:03:59 Build Finished. 0 errors, 0 warnings. (took 161ms)
+
